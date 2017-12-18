@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a9fe9f6-10af-4132-8926-5619223a5dac" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.html" />
     </list>
     <ignored path="yuanshu.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="01.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21428572">
+            <state vertical-scroll-proportion="-4.9">
               <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.21428572">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -49,6 +59,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/01.html" />
+        <option value="$PROJECT_DIR$/02.html" />
       </list>
     </option>
   </component>
@@ -207,8 +218,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21428572">
+        <state vertical-scroll-proportion="-4.9">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21428572">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding />
         </state>
       </provider>
